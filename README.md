@@ -13,6 +13,7 @@
 - 📫 How to reach me **santikarrutuja@gmail.com**
 <h2 align="left">My Projects</h2>
 <p align="left"><a href="https://dashing-gelato-vuetodoapp.netlify.app/">Vue To-do App </a> </p>
+<p align="left"><a href="https://tastyyfoodrecipes.netlify.app/">Vue Recipe-App </a> </p>
 <p align="left"><a href="https://unrivaled-pie-58ad43-airbnb-replica.netlify.app/">Airbnb Replica- static & responsive </a> </p>
 <p align="left"><a href="https://rutujasantikar.github.io/grubhub-replica/">Grubhub Replica - static & Responsive</a> </p>
 <p align="left"><a href="https://rutujasantikar.github.io/flipkrt-replica/">Flipkart Replica - static </a> </p>
